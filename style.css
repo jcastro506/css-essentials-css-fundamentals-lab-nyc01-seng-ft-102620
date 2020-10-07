@@ -18,7 +18,8 @@ figcaption {text-align: center;}
 #featured-property p {    
   width: 800px;
   margin-left: auto;
-  margin-right: auto;     
+  margin-right: auto; 
+  text-align: center;
 }
 
 footer {
